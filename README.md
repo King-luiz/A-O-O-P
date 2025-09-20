@@ -1,6 +1,4 @@
 # A-O-O-P
----
-
 # 📘 A-O-O-P (Advanced Object-Oriented Programming Examples)
 
 This repository contains **Java Object-Oriented Programming (OOP) examples** covering fundamental and advanced concepts. Each code file is a practical demonstration of OOP principles with **refined, easy-to-understand examples**.
@@ -63,11 +61,11 @@ This repository is **open-source** and free to use for educational purposes.
 ## 👤 Author
 
 **Lewins Mureithi Nderitu**
-🎓 Bachelor’s in Information Technology
-💻 Full-Stack Web Developer | Designer | Programmer
+*🎓 Bachelor’s in Information Technology
+*💻 Full-Stack Web Developer | Designer | Programmer
 
-📧 Email: **[mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)**
-📱 Phone: **+254 112876340**
-🌐 GitHub: [King-luiz](https://github.com/King-luiz)
+*📧 Email: **[mureithilewins@gmail.com](mailto:mureithilewins@gmail.com)**
+*📱 Phone: **+254 112876340**
+*🌐 GitHub: [King-luiz](https://github.com/King-luiz)
 
 ---
